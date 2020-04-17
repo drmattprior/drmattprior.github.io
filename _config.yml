@@ -1,0 +1,24 @@
+# Site Settings
+url: "https://drmattprior.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Matt Prior" # the name of your site, e.g. ACME Corp.
+author: Dr Matt Prior
+title_image: "/assets/images/mattprior.png"
+
+# Social usernames/URLs
+twitter: drmattprior
+github: drmattprior
+linkedin: drmattprior
+instagram: drmattprior
+facebook: drmattprior
+
+disqus: "drmattprior"
+google_analytics: UA-66999290-2
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -1,0 +1,61 @@
+<head>
+  <!-- meta -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="description" content="{{ description }}">
+  
+
+  <!-- Open Graph tags -->
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta property="og:image" content="{{ site.title_image }}">
+  {% endif %}
+
+  <!-- Twitter cards -->
+  <meta name="twitter:site"    content="@{{ site.twitter_username }}">
+  
+  {% if page.author %}
+  <meta name="twitter:creator" content="@{{ page.author }}">
+  {% else %}
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+  {% endif %}
+  <meta name="twitter:title"   content="{{ page.title }}">
+  {% if page.summary %}
+  <meta name="twitter:description" content="{{ page.summary }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.image %}
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta name="twitter:card"  content="summary">
+  <meta name="twitter:image" content="{{ site.title_image }}">
+  {% endif %}
+
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+
+  <!-- CSS stylesheets and fonts -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.6.3/css/foundation-float.min.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" type="text/css">
+  <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+  <link rel="stylesheet"  href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ site.title }}">
+  <link rel="alternate" href="/notes.xml" type="application/rss+xml" title="{{ site.title-notes }}">
+
+  <!-- Google analytics -->
+  {% include analytics.html %}
+</head>

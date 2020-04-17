@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+  {{ content }}
+  {% include signature.html %}
+  
+  {% if page.comments %}
+  {% include disqus.html %}
+  {% endif %}
+
+
+</article>
+

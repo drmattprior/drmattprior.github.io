@@ -1,0 +1,412 @@
+
+$main_color: #000000;
+$link_color: #4183C4;
+$light-grey: #6F6F6F;
+$font_family: "IBM Plex Sans", sans;
+
+
+body {
+  font-family: $font_family;
+  text-align: left;
+  border-top: 5px solid $main_color;
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font_family;
+  font-weight: bold;
+  font-style: normal;
+}
+
+em {
+  letter-spacing: 0.2px;
+}
+
+ul, ol, p,
+table > thead > tr > th,
+table > tbody > tr > td {
+  font-size: 1.2rem;
+}
+
+blockquote {
+  p {
+    font-style: italic;
+    color: black;
+  }
+}
+
+a {
+  color: $link_color;
+  text-decoration: underline;
+  font-style: italic;
+
+  &:visited {
+    color: $link_color;
+  }
+
+  &:hover {
+    color: $main_color;
+    text-decoration: underline;
+  }
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0em;
+
+  > a {
+    color: $main_color;
+    position: relative;
+    text-decoration: none;
+    font-style: normal;
+
+    &:hover {
+      color: $main_color;
+      text-decoration: none;
+    }
+
+    &:visited {
+      color: $main_color;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 4px;
+      margin-bottom: 0px;
+      bottom: 0;
+      left: 0;
+      background-color: $main_color;
+      visibility: hidden;
+      -webkit-transform: scaleX(0);
+      transform: scaleX(0);
+      -webkit-transition: all 0.3s ease-in-out 0s;
+      transition: all 0.3s ease-in-out 0s;
+    }
+
+    &:hover:before {
+      visibility: visible;
+      -webkit-transform: scaleX(1);
+      transform: scaleX(1);
+    }
+  }
+}
+
+h2, h3, h4, h5, h6 {
+  
+  > a {
+    color: $main_color;
+    position: relative;
+    text-decoration: none;
+    font-style: normal;
+
+    &:hover {
+    color: $link_color;
+      text-decoration: underline;
+    }
+  
+    &:visited {
+     font-style: normal;
+      color: $main_color;
+  }
+  }}
+
+ul, ol {
+  li {
+    margin-left: 1.0em;
+  }
+}
+
+.list-related {
+  margin-top: -12px;
+}
+
+p > code, li > code {
+  font-family: Consolas, Menlo, "Courier New", monospace;
+  background-color: #f8f8f8;
+  border: 1px solid silver;
+  border-radius: 2px;
+  padding: 1px 1px 1px 1px;
+  font-size: 80%;
+  white-space: nowrap;
+}
+
+code {
+  border: none;
+  padding: 0px;
+}
+
+pre {
+  margin: 20px 0px 20px 0px;
+  background-color: #f8f8f8;
+  border-color: #d5d5d5;
+  border-width: 1px 1px 1px 10px;
+  border-style: solid;
+  border-radius: 2px;
+  padding: 0.1em;
+  padding-right: 1px;
+  padding-left: 10px;
+  overflow: auto;
+}
+
+header{
+  img {
+   padding-top: 25px;}
+  h1 {
+    text-align: center;}
+}
+
+img {
+  border: none;
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+}
+
+// Remove bullet points from post list
+.posts{
+  ul {
+     list-style-type: none;
+  }
+}
+
+
+
+pre {
+    text-align: left;
+    background-color: inherit;
+    border-style: inherit;
+    width: 731px;
+    margin-left: -10px;
+  }
+
+// Images
+.photos {
+  img:hover {
+    filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
+  }
+}
+
+.side-image {
+  position: absolute;
+  margin-left: -250px;
+  margin-top: 8px;
+  float: right;
+  width: 200px;
+}
+
+.side-image-border {
+  @extend .side-image;
+  border: 1px solid black;
+}
+
+@media(max-width: 1024px) {
+  .side-image {
+    img {
+      display: none;
+    }
+  }
+}
+
+.iframe-443 {
+  padding-top: 61.5%;
+}
+
+.iframe-519 {
+  padding-top: 72.1%;
+}
+
+.iframe-579 {
+  padding-top: 80.4%;
+}
+
+.iframe-container {
+  position: relative;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1em;
+
+  img {
+    margin: 0;
+  }
+}
+
+// Post Notes Separator Line
+.notes-separator {
+  color: $light_grey;
+  border-width: 1.6px 0 0;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+// Buttons
+.btn, .btn:visited, .btn:hover, .btn:active {
+  background-color: $main_color;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  font-style: normal;
+}
+
+.btn:hover{
+  background-color: $link_color;;
+}
+
+// Signature
+a.sig {
+    font-style: normal; 
+    color: $main_color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link_color;
+      text-decoration: underline;
+    }
+}
+
+#signature {
+  margin-top: 40px;
+  text-align: right;
+
+  #pipe {
+    padding: 0 4px 0 7px;
+  }
+}
+
+// Tables
+  table {
+    width: auto;
+    min-width: 0;
+    display: table;
+    width: none;
+    overflow: auto;
+    margin-bottom: 16px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    th {
+      font-weight: bold;
+      background-color: #f6f8fa;
+    }
+
+    td {
+      padding: 6px 13px;
+      border: 1px solid lighten(#d1d5da, 5%);
+    }
+
+    tr {
+      border: 1px solid lighten(#d1d5da, 5%);
+      background-color: white;
+
+      &:nth-child(2n) {
+        background-color: white;
+       }
+    }
+
+}
+
+// Navigation
+.menu { 
+  margin:0;
+  overflow:visible;
+  text-align:center;
+  width:100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+#nav .menu {
+  border:1px solid #d1d1d1;
+  border-left:none;
+  border-right:none;
+  clear:both;
+   }
+.menu ul{
+  display:inline;
+}
+
+.menu li { 
+  display:inline-block;
+  list-style-type:none;
+  margin:0;
+  padding:0; 
+}
+.menu a {
+   color:#000;
+   display:block;
+   line-height:1.0em;
+   text-decoration:none;
+   text-transform:uppercase;
+  }
+
+#nav .menu .no-focus.current-menu-item > a {
+  border-top:1px solid transparent;
+  color:#909192;
+  font-size:12px;
+  margin:-1px 6.5px 0 6.5px;
+  padding:18px 0 17px 0;
+}
+
+
+#nav .menu .no-focus.current-menu-item > a {
+ color:#58595A;
+ }
+
+#nav .menu a:hover, #nav .menu .no-focus a:hover, #nav .menu .sfHover a { 
+  border-color:#000;
+  color:#000;
+  font-weight:bold;
+   }
+
+@media screen and (max-width: 600px) {
+  ul.nav li.right, 
+  ul.nav li {float: none;}
+}
+
+// Footer with social media icons
+.footer{
+  text-align:center;
+}
+
+.fa {
+  text-decoration: none;
+  display: block;
+  margin: 0px 15px;
+    }
+
+a.fa{
+  font-size:30px;
+  color: $light_grey;
+
+  &:visited {
+    text-decoration: underline;
+    font-style: italic;
+  
+  &:visited:hover{ 
+    color: $link_color;;}
+  }}
+
+.fa:hover,   {
+    text-decoration: none;
+    color: $link_color;;
+  }
