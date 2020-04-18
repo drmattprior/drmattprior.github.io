@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown Display Guide"
 description: "Below is just about everything required to style the theme."
-
+image: /assets/images/markdown-preview.jpg
 ---
 
 Who likes Microsoft Word? I can't stand it. Documents look a mess, styles get all mixed up, and it is way too easy to get distracted from actually doing any work.
@@ -12,11 +12,14 @@ I much prefer to write using Markdown. Markdown is a simple way of writing using
 The rest of this article shows the styling applied to Markdown.
 
 ---
+### Writing with Markdown
+
+![Writing with Markdown][2]
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](/).
 
 There should be whitespace between paragraphs.
 
@@ -139,4 +142,7 @@ The final element.
 ### [Heading 3](/)
 #### [Heading 4](/)
 ##### [Heading 5](/)
-###### [Heading 6](/) 
+###### [Heading 6](/)
+
+[1]: https://github.com/drmattprior/drmattprior.github.io
+[2]: /assets/images/markdown-preview.jpg
