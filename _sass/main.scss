@@ -10,7 +10,8 @@ body {
   text-align: left;
   border-top: 5px solid $main_color;
   color: black;
-}
+  margin-top: 2em;
+} 
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font_family;
@@ -111,6 +112,11 @@ h2, h3, h4, h5, h6 {
       color: $main_color;
   }
   }}
+
+h3, h4, h5, h6 {
+
+    margin-top: 1.5em;
+  }
 
 ul, ol {
   li {
@@ -300,7 +306,7 @@ a.sig {
     display: table;
     width: none;
     overflow: auto;
-    margin-bottom: 16px;
+    margin-bottom: 2em;
     margin-left: auto;
     margin-right: auto;
 
