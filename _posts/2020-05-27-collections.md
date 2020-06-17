@@ -36,6 +36,10 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 - [PRISM: A Randomized Trial of Progesterone in Women with Bleeding in Early Pregnancy (*Coomarasamy 2019. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1813730)
 - [PROMISE: A Randomized Trial of Progesterone in Women with Recurrent Miscarriages. (*Coomarasamy 2015. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1504927)
 
+### Ovarian Cysts
+
+- [International Ovarian Tumour Analysis (IOTA) Simple Rules](https://www.iotagroup.org/iota-models-software/iota-simple-rules-and-srrisk-calculator-diagnose-ovarian-cancer)
+
 ### Ovarian Torsion
 
 - [Imaging in gynecological disease: clinical and ultrasound characteristics of adnexal torsion. (*Moro 2020. UOG*)](https://sci-hub.tw/10.1002/uog.21981)
