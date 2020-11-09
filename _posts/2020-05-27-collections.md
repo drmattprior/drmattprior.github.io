@@ -23,15 +23,15 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Endometriosis
 
-- [Endometriosis. (*Zondervan 2020. NEJM*)](https://sci-hub.tw/10.1056/NEJMra1810764)
+- [Endometriosis. (*Zondervan 2020. NEJM*)](https://sci-hub.se/10.1056/NEJMra1810764)
 
 ### Hormone Replacement Therapy (HRT)
 
-- [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://sci-hub.tw/downloads-ii/2020-01-30/58/10.1056@NEJMcp1714787.pdf)
+- [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://sci-hub.se/downloads-ii/2020-01-30/58/10.1056@NEJMcp1714787.pdf)
 
 ### Miscarriage
 
-- [Managing Early Miscarriage. (*Chu 2020. BMJ*)](https://sci-hub.tw/10.1136/bmj.l6438)
+- [Managing Early Miscarriage. (*Chu 2020. BMJ*)](https://sci-hub.se/10.1136/bmj.l6438)
 - [Micronized vaginal progesterone to prevent miscarriage: a critical evaluation of randomized evidence. (*Coomarasamy 2020. AJOG*)](https://www.sciencedirect.com/science/article/pii/S0002937819327620)
 - [PRISM: A Randomized Trial of Progesterone in Women with Bleeding in Early Pregnancy (*Coomarasamy 2019. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1813730)
 - [PROMISE: A Randomized Trial of Progesterone in Women with Recurrent Miscarriages. (*Coomarasamy 2015. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1504927)
@@ -42,17 +42,17 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Ovarian Torsion
 
-- [Imaging in gynecological disease: clinical and ultrasound characteristics of adnexal torsion. (*Moro 2020. UOG*)](https://sci-hub.tw/10.1002/uog.21981)
+- [Imaging in gynecological disease: clinical and ultrasound characteristics of adnexal torsion. (*Moro 2020. UOG*)](https://sci-hub.se/10.1002/uog.21981)
 
 ### Polycystic Ovary Syndrome
 
-- [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://sci-hub.tw/10.1111/tog.12345)
+- [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://sci-hub.se/10.1111/tog.12345)
 
 
 ### Recurrent Miscarriage
 
-- [A longitudinal study of pregnancy outcome following idiopathic recurrent miscarriage. (*Brigham 1999. Hum Rep*)](https://sci-hub.tw/10.1093/humrep/14.11.2868)
-- [Prognosis for Live Birth in Women With Recurrent Miscarriage. (*Lund 2012. Obs Gyn*)](https://sci-hub.tw/10.1097/AOG.0b013e31823c0413)
+- [A longitudinal study of pregnancy outcome following idiopathic recurrent miscarriage. (*Brigham 1999. Hum Rep*)](https://sci-hub.se/10.1093/humrep/14.11.2868)
+- [Prognosis for Live Birth in Women With Recurrent Miscarriage. (*Lund 2012. Obs Gyn*)](https://sci-hub.se/10.1097/AOG.0b013e31823c0413)
 
 ### Type 2 Diabetes
 - [The Newcastle Diet: A very low calorie diet to reverse diabetes](https://www.ncl.ac.uk/magres/research/diabetes/reversal/#publicinformation)
