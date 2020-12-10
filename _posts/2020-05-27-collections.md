@@ -50,7 +50,7 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Transgender
 
-- [The transgender population: improving awareness for gynaecologists and their role in the provision of care. (*Price 2019. TOG*)][https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1111/tog.12521]
+- [The transgender population: improving awareness for gynaecologists and their role in the provision of care. (*Price 2019. TOG*)](https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1111/tog.12521)
 
 
 ### Recurrent Miscarriage
