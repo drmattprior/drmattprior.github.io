@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "github-pages", "~> 209",
+gem "github-pages", "~> 211",
 
 group: :jekyll_plugins do
   gem 'jekyll-sitemap'
