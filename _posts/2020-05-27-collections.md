@@ -25,6 +25,10 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 - [Endometriosis. (*Zondervan 2020. NEJM*)](https://sci-hub.se/10.1056/NEJMra1810764)
 
+### Hirsutism
+- [Hirsutism. (*Swingler 2009. TOG*)](https://sci-hub.se/10.1576/toag.11.2.101.27483)
+
+
 ### Hormone Replacement Therapy (HRT)
 
 - [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://sci-hub.se/downloads-ii/2020-01-30/58/10.1056@NEJMcp1714787.pdf)
