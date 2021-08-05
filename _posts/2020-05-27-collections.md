@@ -23,19 +23,19 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Endometriosis
 
-- [Endometriosis. (*Zondervan 2020. NEJM*)](https://sci-hub.se/10.1056/NEJMra1810764)
+- [Endometriosis. (*Zondervan 2020. NEJM*)](https://sci-hub.st/10.1056/NEJMra1810764)
 
 ### Hirsutism
-- [Hirsutism. (*Swingler 2009. TOG*)](https://sci-hub.se/10.1576/toag.11.2.101.27483)
+- [Hirsutism. (*Swingler 2009. TOG*)](https://sci-hub.st/10.1576/toag.11.2.101.27483)
 
 
 ### Hormone Replacement Therapy (HRT)
 
-- [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://sci-hub.se/downloads-ii/2020-01-30/58/10.1056@NEJMcp1714787.pdf)
+- [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://sci-hub.st/downloads-ii/2020-01-30/58/10.1056@NEJMcp1714787.pdf)
 
 ### Miscarriage
 
-- [Managing Early Miscarriage. (*Chu 2020. BMJ*)](https://sci-hub.se/10.1136/bmj.l6438)
+- [Managing Early Miscarriage. (*Chu 2020. BMJ*)](https://sci-hub.st/10.1136/bmj.l6438)
 - [Micronized vaginal progesterone to prevent miscarriage: a critical evaluation of randomized evidence. (*Coomarasamy 2020. AJOG*)](https://www.sciencedirect.com/science/article/pii/S0002937819327620)
 - [PRISM: A Randomized Trial of Progesterone in Women with Bleeding in Early Pregnancy (*Coomarasamy 2019. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1813730)
 - [PROMISE: A Randomized Trial of Progesterone in Women with Recurrent Miscarriages. (*Coomarasamy 2015. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1504927)
@@ -50,7 +50,7 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Polycystic Ovary Syndrome
 
-- [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://sci-hub.se/10.1111/tog.12345)
+- [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://sci-hub.st/10.1111/tog.12345)
 
 ### Transgender
 
@@ -59,7 +59,7 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Recurrent Miscarriage
 
-- [A longitudinal study of pregnancy outcome following idiopathic recurrent miscarriage. (*Brigham 1999. Hum Rep*)](https://sci-hub.se/10.1093/humrep/14.11.2868)
+- [A longitudinal study of pregnancy outcome following idiopathic recurrent miscarriage. (*Brigham 1999. Hum Rep*)](https://sci-hub.st/10.1093/humrep/14.11.2868)
 - [Prognosis for Live Birth in Women With Recurrent Miscarriage. (*Lund 2012. Obs Gyn*)](https://sci-hub.se/10.1097/AOG.0b013e31823c0413)
 
 ### Type 2 Diabetes
