@@ -53,5 +53,5 @@ If you want to get involved, please contact me at [editor@bigfertilityproject.co
 
 [1]: /assets/images/our-emotional-journey.jpg
 [2]: /assets/images/matt.jpg
-[3]: /assets/images/quote.png
+[3]: /assets/images/quote-bfp-mission.png
 [4]: mailto:editor@bigfertilityproject.com
