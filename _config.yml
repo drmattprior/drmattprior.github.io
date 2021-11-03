@@ -12,8 +12,8 @@ linkedin: drmattprior
 instagram: drmattprior
 facebook: drmattprior
 
-disqus: "drmattprior"
-google_analytics: UA-66999290-2
+disqus: 
+google_analytics: 
 
 # Build settings
 markdown: kramdown
