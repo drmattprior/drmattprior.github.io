@@ -51,6 +51,7 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 ### Polycystic Ovary Syndrome
 
 - [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://sci-hub.st/10.1111/tog.12345)
+- [International evidence-based guideline for the assessment and management of polycystic ovary syndrome (PCOS). (*ESHRE 2018.*)](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Polycystic-Ovary-Syndrome)
 
 ### Transgender
 
