@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections
-date: 27 May 2020
+date: 2 December 2021
 description: A collection of useful journal articles
 comments:
 tags:
