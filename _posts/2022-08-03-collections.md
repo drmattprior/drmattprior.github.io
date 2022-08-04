@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections
-date: 2 December 2021
+date: 3 August 2022
 description: A collection of useful journal articles
 comments:
 tags:
@@ -39,6 +39,10 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 - [Micronized vaginal progesterone to prevent miscarriage: a critical evaluation of randomized evidence. (*Coomarasamy 2020. AJOG*)](https://www.sciencedirect.com/science/article/pii/S0002937819327620)
 - [PRISM: A Randomized Trial of Progesterone in Women with Bleeding in Early Pregnancy (*Coomarasamy 2019. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1813730)
 - [PROMISE: A Randomized Trial of Progesterone in Women with Recurrent Miscarriages. (*Coomarasamy 2015. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMoa1504927)
+
+### Obesity in Pregnancy
+
+- [Obesity in Pregnancy. *Creanga 2022. NEJM*](https://www.nejm.org/doi/full/10.1056/NEJMra1801040)
 
 ### Ovarian Cysts
 
