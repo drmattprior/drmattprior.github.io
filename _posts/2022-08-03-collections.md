@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections
-date: 3 August 2022
+date: 25 August 2022
 description: A collection of useful journal articles
 comments:
 tags:
@@ -23,15 +23,15 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Endometriosis
 
-- [Endometriosis. (*Zondervan 2020. NEJM*)](https://sci-hub.st/10.1056/NEJMra1810764)
+- [Endometriosis. (*Zondervan 2020. NEJM*)](https://www.nejm.org/doi/full/10.1056/NEJMra1810764)
 
 ### Hirsutism
-- [Hirsutism. (*Swingler 2009. TOG*)](https://sci-hub.st/10.1576/toag.11.2.101.27483)
+- [Hirsutism. (*Swingler 2009. TOG*)](https://obgyn.onlinelibrary.wiley.com/doi/10.1576/toag.11.2.101.27483)
 
 
 ### Hormone Replacement Therapy (HRT)
 
-- [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://sci-hub.st/downloads-ii/2020-01-30/58/10.1056@NEJMcp1714787.pdf)
+- [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://www.bmj.com/content/368/bmj.l6438.abstract)
 
 ### Miscarriage
 
@@ -48,13 +48,15 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 - [International Ovarian Tumour Analysis (IOTA) Simple Rules](https://www.iotagroup.org/iota-models-software/iota-simple-rules-and-srrisk-calculator-diagnose-ovarian-cancer)
 
+- [Lesions of the Ovary and Fallopian Tube. *Sisodia. NEJM*](https://www.nejm.org/doi/full/10.1056/NEJMra2108956?query=TOC&cid=NEJM+eToc%2C+August+25%2C+2022+DM1379474_NEJM_Non_Subscriber&bid=1131227536)
+
 ### Ovarian Torsion
 
-- [Imaging in gynecological disease: clinical and ultrasound characteristics of adnexal torsion. (*Moro 2020. UOG*)](https://sci-hub.se/10.1002/uog.21981)
+- [Imaging in gynecological disease: clinical and ultrasound characteristics of adnexal torsion. (*Moro 2020. UOG*)](https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.21981)
 
 ### Polycystic Ovary Syndrome
 
-- [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://sci-hub.st/10.1111/tog.12345)
+- [Polycystic Ovary Syndrome. (*Balen 2017. TOG*)](https://obgyn.onlinelibrary.wiley.com/doi/abs/10.1111/tog.12345)
 - [International evidence-based guideline for the assessment and management of polycystic ovary syndrome (PCOS). (*ESHRE 2018.*)](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Polycystic-Ovary-Syndrome)
 
 ### Post Coital Bleeding
@@ -70,8 +72,8 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 ### Recurrent Miscarriage
 
-- [A longitudinal study of pregnancy outcome following idiopathic recurrent miscarriage. (*Brigham 1999. Hum Rep*)](https://sci-hub.st/10.1093/humrep/14.11.2868)
-- [Prognosis for Live Birth in Women With Recurrent Miscarriage. (*Lund 2012. Obs Gyn*)](https://sci-hub.se/10.1097/AOG.0b013e31823c0413)
+- [A longitudinal study of pregnancy outcome following idiopathic recurrent miscarriage. (*Brigham 1999. Hum Rep*)](https://academic.oup.com/humrep/article/14/11/2868/860040)
+- [Prognosis for Live Birth in Women With Recurrent Miscarriage. (*Lund 2012. Obs Gyn*)](https://journals.lww.com/greenjournal/Abstract/2012/01000/Prognosis_for_Live_Birth_in_Women_With_Recurrent.7.aspx)
 
 ### Type 2 Diabetes
 - [The Newcastle Diet: A very low calorie diet to reverse diabetes](https://www.ncl.ac.uk/magres/research/diabetes/reversal/#publicinformation)
