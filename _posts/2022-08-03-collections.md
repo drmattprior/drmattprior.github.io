@@ -33,6 +33,9 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 - [Hormone Therapy for Postmenopausal Women. (*Pinkerton 2020. NEJM*)](https://www.bmj.com/content/368/bmj.l6438.abstract)
 
+### Male Fertility
+- [Management of male infertility. (*Pillai 2021. Obstetrics, Gynaecology & Reproductive Medicine*)](https://www.sciencedirect.com/science/article/pii/S1751721421000944)
+
 ### Miscarriage
 
 - [Managing Early Miscarriage. (*Chu 2020. BMJ*)](https://sci-hub.st/10.1136/bmj.l6438)
