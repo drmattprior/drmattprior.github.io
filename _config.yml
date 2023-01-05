@@ -4,6 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Matt Prior" # the name of your site, e.g. ACME Corp.
 author: Dr Matt Prior
 title_image: "/assets/images/mattprior.png"
+repository: drmattprior/drmattprior.github.io
 
 # Social usernames/URLs
 twitter: drmattprior
