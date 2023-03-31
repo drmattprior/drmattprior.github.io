@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-[Consultant at Newcastle Fertility Centre Life][1]{:target="_blank" .btn}
+[Consultant at Newcastle Fertility Centre at Life][1]{:target="_blank" .btn}
 
-[Founder of The Big Fertility Project][2]{:target="_blank" .btn}
+[The Big Fertility Project][2]{:target="_blank" .btn}
 
 [Publications][3]{:target="_blank" .btn}
 
