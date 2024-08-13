@@ -17,6 +17,9 @@ Here I've collected by topic, some useful papers that I frequently refer to.
 
 - [Is AMH associated with natural fertility? (*Zarek 2015. JCEM*)](https://academic.oup.com/jcem/article/100/11/4215/2836143)
 
+### Donor Screening
+- [UK guidelines for the medical and laboratory procurement and use of sperm, oocyte and embryo donors (2019)](https://www.tandfonline.com/doi/full/10.1080/14647273.2019.1622040?wp-linkindex=2&utm_campaign=Clinic+Focus&utm_medium=email&journalCode=ihuf20&utm_content=hfeaclinicfocus.co.uk&utm_source=Human+Fertilisation+and+Embryology+Authority)
+
 ### Early Pregnancy
 
 - [M6 risk model to characterise pregnancies of unknown location.](http://www.earlypregnancycare.co.uk/)
