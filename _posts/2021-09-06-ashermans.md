@@ -3,7 +3,7 @@ layout: post
 title: Asherman’s Syndrome&#58; Is Scarring Inside The Womb Compatible With Having A Baby?
 date: 06 Sep 2021
 comments: true
-tags: #ashermans #patient_information
+tags: ashermans patient_information
 ---
 
 Asherman’s Syndrome is when the lining of the womb becomes scarred. This scar tissue is often called intra-uterine adhesions or synechiae. In many cases the front and back wall of the womb are stuck together. So, what causes Asherman's Syndrome, how do you know if you've got it and can you get pregnant if you have it? We have the answers to all your questions.

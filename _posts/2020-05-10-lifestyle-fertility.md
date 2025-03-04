@@ -3,7 +3,7 @@ layout: post
 title: How Lifestyle Affects Fertility
 date: 10 May 2020
 comments: true
-tags: #lifestyle #patient_information
+tags: lifestyle patient_information
 ---
 
 When trying to conceive it is important to prepare your body for pregnancy. Positive lifestyle changes will not only ensure the best start in life for your baby, but also improve the chances of getting pregnant.

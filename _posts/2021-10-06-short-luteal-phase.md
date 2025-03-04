@@ -3,7 +3,7 @@ layout: post
 title: Short Luteal Phase
 date: 06 Oct 2021
 comments: true
-tags: #ashermans #patient_information
+tags: patient_information
 ---
 
 A short luteal phase has long been attributed as a cause of infertility and miscarriage. I dig deep into the research and look at how a luteal phase defect can influence reproduction.

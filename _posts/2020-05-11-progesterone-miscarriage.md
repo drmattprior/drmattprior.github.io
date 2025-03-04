@@ -5,7 +5,7 @@ date: 11 May 2020
 description: Talk for clinicians
 image:
 comments:
-tags: #progesterone #miscarriage #talk
+tags: progesterone miscarriage
 ---
 
 Miscarriage is the commonest complication in pregnancy. One in four pregnancies ends this way. The physical experience can be awful in itself, but in the words of a patient, "the grief of miscarriage can last forever."

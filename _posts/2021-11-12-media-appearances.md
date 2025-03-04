@@ -5,7 +5,7 @@ date: 12 November 2021
 description: Media appearances
 image:
 comments:
-tags: #media
+tags: media
 ---
 
 Occassionally, I have been interviewed or feature in the media. Here are a few links to media appearances.
