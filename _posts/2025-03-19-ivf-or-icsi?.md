@@ -61,4 +61,6 @@ IVF involves mixing sperm with eggs, while ICSI requires injecting sperm into ea
 ***
 
 ## Sources
-- [Intracytoplasmic sperm injection (ICSI), **HFEA**](https://www.hfea.gov.uk/treatments/explore-all-treatments/intracytoplasmic-sperm-injection-icsi/)
+- [Intracytoplasmic sperm injection (ICSI), *HFEA*](https://www.hfea.gov.uk/treatments/explore-all-treatments/intracytoplasmic-sperm-injection-icsi/)
+- [The use of ICSI in ART: evidence for practice. 2023. *Human Fertility*](https://www.tandfonline.com/doi/full/10.1080/14647273.2023.2243071)
+- [Good practice recommendations on add-ons in reproductive medicine. 2023. *Human Reproduction*](https://academic.oup.com/humrep/article/38/11/2062/7281712)
