@@ -36,7 +36,7 @@ For patients undergoing fertility treatment, the process of ovarian stimulation,
 
 ## IVF or ICSI: Which Is Better?
 
-Fertilisation rates for both techniques are comparable when used appropriately. If sperm tests are normal, there is no benefit to choosing 
+Fertilisation rates for both techniques are comparable when used appropriately. If sperm tests are normal, there is no benefit to choosing ICSI.
 
 ## When Is ICSI Recommended?
 
