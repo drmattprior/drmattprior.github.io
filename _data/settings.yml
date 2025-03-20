@@ -33,7 +33,6 @@ menu_settings:
       url: '/learn/'
     - title: 'Contact'
       url: 'contact' 
-    - title: 'Pages'
  
 #-------------------------------
 # Author Settings
