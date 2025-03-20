@@ -40,7 +40,7 @@ Fertilisation rates for both techniques are comparable when used appropriately. 
 
 ## When Is ICSI Recommended?
 
-1. Poor sperm quality (abnormal motility and morphology)
+1. Poor sperm quality (abnormal count, motility and morphology)
 2. Surgically retrieved sperm (e.g., after vasectomy reversal or testicular biopsy)
 3. Previous unsuccessful fertilisation with IVF
 4. Use of frozen eggs
