@@ -34,15 +34,7 @@ menu_settings:
     - title: 'Contact'
       url: 'contact' 
     - title: 'Pages'
-      submenu:
-      - url: '/videos/'
-        title: 'Videos'
-      - url: '/elements/'
-        title: 'Elements'
-      - url: '/prices/'
-        title: 'Prices'
-
-
+ 
 #-------------------------------
 # Author Settings
 author:
