@@ -1,0 +1,194 @@
+#-------------------------------
+# Site Settings
+title: Dr Matt Prior
+description: Dr Matthew Prior – Fertility and IVF Specialist in Newcastle, UK
+logo: # You can add own logo. For example '/images/logo.png'.
+logo_dark:
+
+
+#-------------------------------
+# Color Scheme Settings
+color_scheme:
+  default: light # Default theme applied on the first visit (options: "light" or "dark")
+  toggle: true # Enable theme toggle
+
+# Enables or disables the theme toggle functionality:
+# - true: Users can switch between light and dark modes using a toggle button.
+#          The site will remember their choice for future visits.
+# - false: The theme will always use the default mode specified above,
+#          and the toggle button will not be displayed.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About' 
+      url: '/about/'
+    - title: 'Consultations'
+      url: '/consultations/'
+    - title: 'Learn'
+      url: '/learn/'
+    - title: 'Contact'
+      url: 'contact' 
+    - title: 'Pages'
+      submenu:
+      - url: '/videos/'
+        title: 'Videos'
+      - url: '/elements/'
+        title: 'Elements'
+      - url: '/prices/'
+        title: 'Prices'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_name: Matt Prior
+  author_avatar: /images/mattprior-round.png
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_avatar: 
+  hero_title: Hi! I’m Matt 👋
+  hero_subtitle: A dedicated fertility consultant in Newcastle
+  hero_description: |
+    I’m Dr Matthew Prior, a fertility consultant in Newcastle. I support patients facing fertility challenges and offer treatments, including IVF, to help them on their journey to parenthood.
+
+    Here, I share insights, advice, and the latest advancements in fertility care. My goal is to empower and guide you with expert knowledge. Explore, learn, and feel free to get in touch!
+  hero_image: /images/Matt-Headshots-031.jpeg
+  hero_image_caption: Dr Matthew Prior MBBS PhD MRCOG
+  hero_button_text: Contact Me
+  hero_button_link: '/contact/'
+
+
+# Logos
+logos:
+  enable: true
+  logos_title: As featured in
+  logo_image:
+    - alt: "High Life North"
+      image: "/images/High_Life_North.jpg"
+    - alt: "The Fertility Podcast"
+      image: "/images/fertility_podcast.jpg"
+    - alt: "The Chronicle"
+      image: "/images/chronicle.jpg"
+    - alt: "The Sun"
+      image: "/images/The_Sun.jpg"
+    - alt: "The Times"
+      image: "/images/The_Times.jpg"
+    - alt: "Stork and I"
+      image: "/images/stork_and_I.jpg"
+
+
+#-------------------------------
+# Section Blog Settings
+blog:
+  enable: true
+  blog_title: Expert Fertility Advice
+
+
+#-------------------------------
+# Tags Section Settings
+tags_section:
+  enable: true
+  tags_section_title: Learn With Me
+  tags:
+    - tag: "IVF"
+      image: "/images/ivf.jpg"
+    - tag: "Lifestyle"
+      image: "/images/lifestyle.jpg"
+    - tag: "Gynaecology"
+      image: "/images/gynaecology.jpg"
+    - tag: "Men"
+      image: "/images/men.jpg"
+
+
+#-------------------------------
+# Videos Section Settings
+videos_section:
+  enable: false
+  videos_section_title: Latest Videos
+
+
+#-------------------------------
+# Gallery Section Settings
+gallery_section:
+  enable: false
+  gallery_section_title: Byte Frame
+  gallery:
+    gallery_images:
+      - alt: 'Rest'
+        url: '/images/100.jpg'
+        caption: 'Small steps lead to big results.'
+      - alt: 'Lifestyle'
+        url: '/images/101.jpg'
+        caption: 'A peaceful moment captured during a serene evening.'
+      - alt: 'Hobby'
+        url: '/images/102.jpg'
+        caption: 'True friends are like stars — they shine brightest when the world feels dark.'
+      - alt: 'Computers'
+        url: '/images/103.jpg'
+        caption: 'Every click opens a new chapter in an endless story.'
+      - alt: 'Games'
+        url: '/images/104.jpg'
+        caption: 'Every level is a new opportunity to test your limits.'
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: true
+  mailchimp_title: Stay inspired weekly ✌️
+  mailchimp_description: Every Sunday, I deliver actionable tips for your fertility journey, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
+  mailchimp_identifier: matthewprior.us15.list-manage.com/subscribe/post?u=c3e205613c9836deef100ca4b&id=148ba20109
+  mailchimp_input_text: Your email address...
+  mailchimp_button_text: Join Now
+
+
+#-------------------------------
+# Footer Settings
+footer_description: Here, I share insights, advice, and proven approaches to navigating fertility challenges with confidence. Explore, learn, and feel empowered.
+
+
+#-------------------------------
+# Social Settings
+social:
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/drmattprior"}
+- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com/drmattprior"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/in/drmattprior/"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/drmattprior"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/drmattprior"}
+- {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
+
+# Example of adding a new link to the sidebar and footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  form_id: xeoaegzv # Add your form_id
+  button_text: Send Now
+
+# NOTE
+# Coderon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+  disqus_title: Start the conversation
+  disqus_button_text: Show Comments
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
