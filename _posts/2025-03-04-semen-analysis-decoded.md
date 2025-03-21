@@ -17,7 +17,7 @@ A semen analysis is conducted by an andrologist, who manually prepares the sampl
 
 ## Normal vs. Typical
 
-Defining "normal" in semen analysis has evolved over time. The World Health Organization (WHO) provides guidelines on how sperm should be analyzed and establishes reference values for various semen parameters. Before 2010, these thresholds were based on arbitrary expert consensus. However, the current reference ranges stem from a study of 4,500 men whose partners conceived within a year of trying. The WHO defined "normal" as results consistent with the top 95% of these men.
+Defining "normal" in semen analysis has evolved over time. The World Health Organization (WHO) provides guidelines on how sperm should be analyzed and establishes reference values for various semen parameters. Before 2010, these thresholds were based on arbitrary expert consensus. However, the current reference ranges stem from a study of 4,500 men whose partners conceived within a year of trying.[^1] The WHO defined "normal" as results consistent with the top 95% of these men.
 
 Given this methodology, the term "normal" can be misleading. Since 5% of men with lower results still achieved pregnancy within a year, a more accurate way to interpret results is by comparing them to those of highly fertile men.
 
@@ -71,5 +71,5 @@ Semen analysis is a valuable tool for assessing male fertility, but results shou
 ***
 
 ## Sources
-- [Cooper TG. World Health Organization reference values for human semen characteristics. *Hum Reprod Update*. 2010;16(3):231-245.](https://doi.org/10.1093/humupd/dmp048)
+[^1]: [Cooper TG. World Health Organization reference values for human semen characteristics. *Hum Reprod Update*. 2010;16(3):231-245.](https://doi.org/10.1093/humupd/dmp048)
 
