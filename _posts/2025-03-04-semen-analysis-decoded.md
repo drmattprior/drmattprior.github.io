@@ -33,6 +33,9 @@ A sperm count of over 15 million per milliliter of ejaculate is typical for high
 
 Not all sperm are alive and moving. In fact, only 30% need to be actively swimming forward for the sample to be considered typical.
 
+{: .tip}
+Each ejaculate should contain more than 20 million motile sperm. This is known as the total motile sperm concentration.
+
 ### Morphology
 
 Most sperm are abnormal in some way—some have oversized heads, multiple tails, or are even fused together. According to WHO guidelines, only 4% or more need to have a normal shape for a sample to be considered typical.
@@ -64,4 +67,9 @@ While semen analysis is useful in assessing fertility, it provides limited insig
 ## Conclusion
 
 Semen analysis is a valuable tool for assessing male fertility, but results should be interpreted with context. Since sperm quality fluctuates and laboratory methods vary, a single test isn't definitive. Understanding how sperm count, motility, and morphology interact can provide a clearer picture of fertility potential, but further testing and clinical evaluation may be necessary for a comprehensive assessment.
+
+***
+
+## Sources
+- [Cooper TG. World Health Organization reference values for human semen characteristics. *Hum Reprod Update*. 2010;16(3):231-245.](https://doi.org/10.1093/humupd/dmp048)
 
