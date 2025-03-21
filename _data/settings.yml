@@ -94,11 +94,10 @@ tags_section:
       image: "/images/ivf.jpg"
     - tag: "Lifestyle"
       image: "/images/lifestyle.jpg"
-    - tag: "Gynaecology"
-      image: "/images/gynaecology.jpg"
     - tag: "Men"
       image: "/images/men.jpg"
-
+    - tag: "Gynaecology"
+      image: "/images/gynaecology.jpg"
 
 #-------------------------------
 # Videos Section Settings
