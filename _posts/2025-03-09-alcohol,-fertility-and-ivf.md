@@ -23,7 +23,7 @@ Extensive studies confirm that drinking during pregnancy can cause long-term har
 Moderate alcohol consumption—defined as up to 14 units per week—has not been shown to significantly affect fertility in women. The time it takes to conceive is generally comparable between moderate drinkers and non-drinkers. However, research suggests that heavy alcohol consumption in men (over 20 units per week) may lead to a longer time to conception[^2]
 
 ![](/images/hassan.jpg)
-*Source: [Hassan. Fertilty and Sterility. 2004](https://www.fertstert.org/article/S0015-0282(03)02846-2/fulltext)*
+*Source: [Hassan. Fertilty and Sterility. 2004](https://www.fertstert.org/article/S0015-0282(03)02846-2/fulltext){:target="_blank"}*
 
 ## Alcohol and IVF
 
