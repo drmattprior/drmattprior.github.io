@@ -1,8 +1,8 @@
 ---
 layout: contact
 title: Get In Touch
-description: I provide free phone mini-consultations to address any questions you have about your fertility or specific procedures, eliminating the commitment barrier associated with face-to-face consultations.
+description: I provide comprehensive consultations where we can explore your fertility questions and treatment options in depth, ensuring you receive tailored guidance and clarity.
 permalink: /contact/
 image: '/images/matt-005.jpeg'
-image_caption: 'Photo by [Sarah Deane](https://www.sarahdeanephotography.co.uk)'
+image_caption:
 ---
