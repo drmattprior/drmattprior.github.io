@@ -9,9 +9,9 @@ image: '/images/Matt-Headshots-027.jpeg'
 
 I am a fertility and IVF specialist based in Newcastle, UK. I provide expert care for both NHS and private patients, helping individuals and couples navigate their fertility journey with compassion and evidence-based treatments. 
 
-I see NHS fertility patients at Newcastle Fertility Centre, where I offer comprehensive assessments and advanced reproductive treatments, including IVF and egg freezing. I also provide NHS gynaecology care at the **Royal Victoria Infirmary** and **Tyneside Surgical Services**, with clinics in **Team Valley** and **Blaydon**, where I diagnose and treat a range of women’s health conditions. 
+I see NHS fertility patients at Newcastle Fertility Centre, where I offer comprehensive assessments and advanced reproductive treatments, including IVF and egg freezing. I also provide NHS gynaecology care at the **Royal Victoria Infirmary** where I diagnose and treat a range of women’s health conditions. 
 
-For private patients, I offer virtual and face-to-face consultations, providing tailored fertility advice, second opinions, and treatment options.
+For private patients, I offer virtual and face-to-face consultations at Newcastle Fertility Centre, providing tailored fertility advice, second opinions, and treatment options.
 
 With over 20 years of experience in fertility and reproductive health, I am dedicated to delivering high-quality, patient-centred care. Whether you are struggling to conceive, exploring treatment options, or seeking specialist gynaecological advice.
 
@@ -25,7 +25,7 @@ I am here to provide personalised and friendly support and the latest medical tr
 - IVF (In Vitro Fertilisation) and fertility preservation
 - Male and female fertility assessments
 - Treatment for recurrent miscarriage
-- NHS gynaecology services at the RVI and Tyneside Surgical Services
+- NHS gynaecology services at the RVI
 - Private consultations for fertility advice and second opinions
 
 ## Why Choose Me?
