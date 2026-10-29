@@ -1,0 +1,18 @@
+{% assign p = include.post %}
+<div class="archive-article">
+  <h3 class="archive-article__title">
+    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+  </h3>
+  <div class="archive-article__meta">
+    {% assign date_format = site.minima.date_format | default: "%d %b, %Y" %}
+    {% if p.last_modified_at %}
+      <time class="archive-article__date" datetime="{{ p.last_modified_at | date_to_xmlschema }}">Updated {{ p.last_modified_at | date: date_format }}</time>
+    {% else %}
+      <time class="archive-article__date" datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: date_format }}</time>
+    {% endif %}
+    <div class="archive-article__minutes">
+      {% assign words = p.content | number_of_words %}
+      {% if words < 360 %}1 min read{% else %}{{ words | divided_by: 180 }} min read{% endif %}
+    </div>
+  </div>
+</div>

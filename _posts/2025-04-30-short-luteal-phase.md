@@ -6,6 +6,7 @@ date: 2025-04-30
 image: '/images/short-luteal-phase-featured-image.jpg'
 tags: [Fertility]
 tags_color: '#ff4500'
+last_modified_at: 2026-11-05
 ---
 
 I see many patients who are concerned about lighter periods or short cycles. A short luteal phase has long been attributed as a cause of infertility and miscarriage.  Here is a summary of the research looking at how a luteal phase defect may influence fertility.

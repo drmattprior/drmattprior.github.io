@@ -29,8 +29,8 @@ menu_settings:
       url: '/about/'
     - title: 'Consultations'
       url: '/consultations/'
-    - title: 'Learn'
-      url: '/learn/'
+    # - title: 'Learn'
+    #   url: '/learn/'
     - title: 'Contact'
       url: 'contact' 
  

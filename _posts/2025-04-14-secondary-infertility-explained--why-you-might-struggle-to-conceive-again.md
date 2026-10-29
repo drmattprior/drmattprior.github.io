@@ -7,6 +7,7 @@ image: '/images/secondary-infertility.jpeg'
 tags: [Fertility]
 tags_color: '#ff4500'
 featured: true
+last_modified_at: 2026-11-05
 ---
 
 Secondary infertility is a deeply personal and often unexpected challenge faced by many individuals and couples. It occurs when someone who has previously conceived naturally struggles to do so again. Despite its prevalence, secondary infertility is frequently misunderstood and under-discussed, leaving many to worry about it in silence.

@@ -7,6 +7,7 @@ image: '/images/alcohol.jpg'
 tags: [Lifestyle]
 tags_color: '#3eb99a'
 featured: true
+last_modified_at: 2026-11-05
 ---
 
 If you’re trying to conceive, you may be wondering how lifestyle choices, particularly alcohol consumption, impact fertility. While some factors affecting fertility, such as medical conditions, are beyond our control, research suggests that lifestyle choices, including alcohol intake, can play a role in reproductive health.

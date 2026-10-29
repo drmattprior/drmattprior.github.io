@@ -7,6 +7,7 @@ image: '/images/ivf-icsi.jpg'
 tags: [IVF]
 tags_color: '#de47e2'
 featured: true
+last_modified_at: 2026-11-05
 ---
 In the autumn of 1977, Lesley Brown, a young woman from Oldham, underwent a groundbreaking procedure to collect a single egg. The egg was placed in a dish, where it was introduced to sperm from her husband. Within seconds, the sperm swarmed around the egg, leading to fertilisation. The fertilised egg was then transferred back into Lesley’s womb. Nine months later, she gave birth to her daughter, Louise Brown—the world’s first IVF baby.
 

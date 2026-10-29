@@ -7,6 +7,7 @@ image: '/images/sperm.gif'
 tags: [Men]
 tags_color: '#4643ec'
 featured: true
+last_modified_at: 2026-11-05
 ---
 
 Sperm testing is more complex than simply placing a sample into a machine and reading the results. But what exactly is considered normal, and how should you interpret the findings?

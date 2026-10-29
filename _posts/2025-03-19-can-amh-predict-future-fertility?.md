@@ -7,6 +7,7 @@ image: '/images/amh.jpg'
 tags: [Fertility]
 tags_color: '#ff4500'
 featured: true
+last_modified_at: 2026-11-05
 ---
 Women are born with all the eggs they will ever have—about 2 million. Over time, these eggs diminish unless they develop and become one of the approximately 450 that are ovulated during a woman's reproductive years. As women age, fertility declines along with the number of remaining eggs. The term "ovarian reserve" describes the number of eggs left in the ovaries. The AMH blood test is one way to estimate, in simple terms, how much "fuel" is left in the reproductive tank.
 

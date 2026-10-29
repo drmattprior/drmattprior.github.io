@@ -7,6 +7,7 @@ image: '/images/fertility-tests.jpg'
 tags: [Fertility]
 tags_color: '#ff4500'
 featured: true
+last_modified_at: 2026-11-05
 ---
 
 Fertility concerns are common, and many couples or individuals wonder when and how to start investigating their reproductive health. If you've been trying to conceive without success, or if you’re planning for the future and want to understand your fertility potential, here’s a step-by-step guide to getting started.  

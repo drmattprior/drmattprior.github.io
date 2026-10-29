@@ -6,6 +6,7 @@ date: 2025-03-14
 image: '/images/ovarian-cysts.jpg'
 tags: [Gynaecology]
 tags_color: '#f14979'
+last_modified_at: 2026-11-05
 ---
 
 Ovarian cysts are common among women during their reproductive years. These fluid-filled sacs can form on or within the ovaries, affecting women of all ages. While most ovarian cysts are harmless and often resolve without treatment, some can lead to complications, including infertility. This article explores the relationship between ovarian cysts and fertility, highlighting the types of cysts that may impact conception and the available treatment options.
