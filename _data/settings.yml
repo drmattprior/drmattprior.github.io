@@ -133,7 +133,7 @@ gallery_section:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false
   mailchimp_title: Stay inspired weekly ✌️
   mailchimp_description: Every Sunday, I deliver actionable tips for your fertility journey, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
   mailchimp_identifier: matthewprior.us15.list-manage.com/subscribe/post?u=c3e205613c9836deef100ca4b&id=148ba20109
