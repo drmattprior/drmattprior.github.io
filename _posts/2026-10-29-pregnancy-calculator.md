@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Pregnancy Calculator'
-description: What’s the difference between IVF and ICSI? Which is better and why should you choose one over the other?
-date: 2026-03-01
+description: 'Calculate your estimated due date and how many weeks pregnant you are, from your last period or embryo transfer date.'
+date: 2020-01-01
 image: '/images/pregnancy-calculator-featured-image.jpg'
 tags: [Calculators]
 tags_color: '#58C1E9'

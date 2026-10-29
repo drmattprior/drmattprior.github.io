@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'BMI Calculator'
-description: 
-date: 2026-03-01
+description: 'Calculate your body mass index (BMI) in metric or imperial units, using height in metres or feet and inches, and weight in kg or stone and pounds.'
+date: 2020-01-01
 image: '/images/bmi-calculator-featured-image.jpg'
 tags: [Calculators]
 tags_color: '#58C1E9'
